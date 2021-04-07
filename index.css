@@ -173,3 +173,6 @@ fieldset {
     width: 100%;
     z-index: 300;
 }
+.form__question:nth-of-type(3) {
+    border-bottom: 3px solid rgb(36,36,36);
+}

@@ -13,7 +13,7 @@ const notificationMessage = document.querySelector('.notification__message');
 const response = document.querySelector('#response');
 
 const api = new Api ({
-    baseUrl: 'http://908e393668c6.ngrok.io',
+    baseUrl: "https://inf-task-gen.herokuapp.com",
 });
 
 function displayError () {

@@ -34,9 +34,9 @@ export default class Form {
                         systems: systemsArr2,
                     },
                 from10 : {
-                    quantity: this._quantity,
-                    maxNum: this._maxNum,
-                    systems: systemsArr,
+                    quantity: this._quantity2,
+                    maxNum: this._maxNum2,
+                    systems: systemsArr2,
                 },
                 variants : +this._variants,
             }
